@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://k-counter.kr/sitemap.xml
